@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|c:\\users\\sanket\\desktop\\project\\quizapi\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|solutionrelative:models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|c:\\users\\sanket\\desktop\\project\\quizapi\\models\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|solutionrelative:models\\quizdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|c:\\users\\sanket\\desktop\\project\\quizapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|c:\\users\\sanket\\desktop\\project\\quizapi\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|solutionrelative:controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|c:\\users\\sanket\\desktop\\project\\quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|c:\\users\\sanket\\desktop\\project\\quizapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|c:\\users\\sanket\\desktop\\project\\quizapi\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|solutionrelative:controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|c:\\users\\sanket\\desktop\\project\\quizapi\\migrations\\20240619133636_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|solutionrelative:migrations\\20240619133636_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|c:\\users\\sanket\\desktop\\project\\quizapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21F67159-D937-45DA-967D-506232E3D7A8}|QuizAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:04:55.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "Controllers\\QuestionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:03:59.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParticipantController.cs",
+              "ToolTip": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "Controllers\\ParticipantController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:03:16.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240619133636_initial create.cs",
+              "DocumentMoniker": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Migrations\\20240619133636_initial create.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240619133636_initial create.cs",
+              "ToolTip": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Migrations\\20240619133636_initial create.cs",
+              "RelativeToolTip": "Migrations\\20240619133636_initial create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:45:25.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T13:18:13.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:16:56.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Models\\QuizDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\QuizDbContext.cs",
+              "ToolTip": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Models\\QuizDbContext.cs",
+              "RelativeToolTip": "Models\\QuizDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:05:28.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Models\\Question.cs",
+              "RelativeToolTip": "Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:05:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\Sanket\\Desktop\\Project\\QuizAPI\\Models\\Participant.cs",
+              "RelativeToolTip": "Models\\Participant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:04:50.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
